@@ -59,4 +59,4 @@ Language.language = Language.english
 
 ## License
 
-Reusable is released under the MIT license. See LICENSE for details.
+Reusable is released under the MIT license. See [See LICENSE](https://github.com/romansorochak/Localizable/blob/master/LICENSE) for details.
