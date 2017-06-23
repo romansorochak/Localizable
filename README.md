@@ -1,6 +1,7 @@
 # Localizable
-Simple approach to localize strings/images.
-Implementation of change app language within the app.
+- Simple approach to localize strings/images.
+- Change app language in the app.
+![Demo](https://github.com/romansorochak/Localizable/blob/master/Localizable/Demo.gif)
 
 ## Contents
 - [Requirements](#requirements)
