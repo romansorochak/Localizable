@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Localizable
+
+  Created by Roman Sorochak on 6/23/17.
+  Copyright © 2017 MagicLab. All rights reserved.
+*/
+
+
+"main_page_language" = "English";
+"main_page_change_language" = "Change language";
+
+"alert_change_language_title" = "Change language to";
+"alert_cancel" = "Cancel";
+"en" = "English";
+"uk" = "Ukrainian";
+"ar" = "Arabic";
