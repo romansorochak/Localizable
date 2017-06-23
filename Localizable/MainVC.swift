@@ -22,7 +22,7 @@ class MainVC: UIViewController {
     
     private func setupUI() {
         label.text = "main_page_language".localized
-        imageView.image = "flag".image
+        imageView.image = "flag".localizedImage
         button.setTitle(
             "main_page_change_language".localized,
             for: .normal

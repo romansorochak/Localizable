@@ -83,7 +83,7 @@ extension String {
         return Bundle.localizedBundle.localizedString(forKey: self, value: nil, table: nil)
     }
     
-    var image: UIImage? {
+    var localizedImage: UIImage? {
         return localizedImage()
             ?? localizedImage(type: ".png")
             ?? localizedImage(type: ".jpg")
