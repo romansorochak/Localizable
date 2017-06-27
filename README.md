@@ -19,9 +19,8 @@
 - Swift 3.0+
 
 ## Installation
-
-All logic is in Localizable.swift file.
-Just copy this file to your project.
+All logic is in [Localizable.swift](https://github.com/romansorochak/Localizable/blob/master/Localizable/Localizable.swift) file.
+Just copy this [file](https://github.com/romansorochak/Localizable/blob/master/Localizable/Localizable.swift) to your project.
 
 
 # Usage
