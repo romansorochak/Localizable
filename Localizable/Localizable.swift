@@ -2,7 +2,7 @@
 //  String+Localizable.swift
 //  Localizable
 //
-//  Created by Roman Sorochak on 6/23/17.
+//  Created by Roman Sorochak <roman.sorochak@gmail.com> on 6/23/17.
 //  Copyright © 2017 MagicLab. All rights reserved.
 //
 
