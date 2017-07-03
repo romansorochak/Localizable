@@ -22,8 +22,13 @@
 All logic is in [Localizable.swift](https://github.com/romansorochak/Localizable/blob/master/Localizable/Localizable.swift) file.
 Just copy this [file](https://github.com/romansorochak/Localizable/blob/master/Localizable/Localizable.swift) to your project.
 
-
 # Usage
+
+## Localize your project
+1) Create Localizable.strings file 
+2) In Localizable.strings file tap Localize button and select english language.
+3) In project file add supported languages.
+-  Recommendation: do not localize storyboards or xibs. Make it simpler. Put all your localized strings in Localizable.strings file.
 
 ## Localization
 Do not localize storyboards/xibs.
