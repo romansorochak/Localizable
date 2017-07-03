@@ -41,7 +41,7 @@ Just copy this [file](https://github.com/romansorochak/Localizable/blob/master/L
 <img src="https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/tut_3_2.png" width="200"/>
 
 4)  Recommendation: do not localize storyboards or xibs. Make it simpler. Put all your localized strings in Localizable.strings file.
-<img src="https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/tut_3_3.png" width="400"/>
+<img src="https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/tut_4.png" width="400"/>
 
 5) Reproduce step 2 for needed languages.
 
