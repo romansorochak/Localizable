@@ -78,6 +78,9 @@ To enable changes it will restart the app within instantiating initial view cont
 Language.language = Language.english
 ```
 
+## Author
+Roman Sorochak - iOS developer - roman.sorochak@gmail.com
+
 ## License
 
 Reusable is released under the MIT license. See [LICENSE](https://github.com/romansorochak/Localizable/blob/master/LICENSE) for details.
