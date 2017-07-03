@@ -3,7 +3,7 @@
 - Change app language in the app.
 
 
-![Demo](https://github.com/romansorochak/Localizable/blob/master/Localizable/Demo.gif)
+![Demo](https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/Demo_.gif)
 
 ## Contents
 - [Requirements](#requirements)
@@ -26,9 +26,22 @@ Just copy this [file](https://github.com/romansorochak/Localizable/blob/master/L
 
 ## Localize your project
 1) Create Localizable.strings file 
+
+<img src="https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/tut_1_1.png" width="200"/>
+<img src="https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/tut_1_2.png" width="200"/>
+
 2) In Localizable.strings file tap Localize button and select english language.
+
+<img src="https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/tut_2_1.png" width="200"/>
+<img src="https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/tut_2_2.png" width="200"/>
+
 3) In project file add supported languages.
+
+<img src="https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/tut_3_1.png" width="200"/>
+<img src="https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/tut_3_2.png" width="200"/>
+
 -  Recommendation: do not localize storyboards or xibs. Make it simpler. Put all your localized strings in Localizable.strings file.
+<img src="https://github.com/romansorochak/Localizable/blob/master/Localizable/DemoAssets/tut_4.png" width="400"/>
 
 ## Localization
 Do not localize storyboards/xibs.
