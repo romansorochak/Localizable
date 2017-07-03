@@ -1,6 +1,9 @@
 # Localizable
-Simple approach to localize strings/images.
-Implementation of change app language within the app.
+- Simple approach to localize strings/images.
+- Change app language in the app.
+
+
+![Demo](https://github.com/romansorochak/Localizable/blob/master/Localizable/Demo.gif)
 
 ## Contents
 - [Requirements](#requirements)
@@ -16,12 +19,16 @@ Implementation of change app language within the app.
 - Swift 3.0+
 
 ## Installation
-
-All logic is in Localizable.swift file.
-Just copy this file to your project.
-
+All logic is in [Localizable.swift](https://github.com/romansorochak/Localizable/blob/master/Localizable/Localizable.swift) file.
+Just copy this [file](https://github.com/romansorochak/Localizable/blob/master/Localizable/Localizable.swift) to your project.
 
 # Usage
+
+## Localize your project
+1) Create Localizable.strings file 
+2) In Localizable.strings file tap Localize button and select english language.
+3) In project file add supported languages.
+-  Recommendation: do not localize storyboards or xibs. Make it simpler. Put all your localized strings in Localizable.strings file.
 
 ## Localization
 Do not localize storyboards/xibs.
