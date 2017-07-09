@@ -83,4 +83,4 @@ Roman Sorochak - iOS developer - roman.sorochak@gmail.com
 
 ## License
 
-Reusable is released under the MIT license. See [LICENSE](https://github.com/romansorochak/Localizable/blob/master/LICENSE) for details.
+Localizable is released under the MIT license. See [LICENSE](https://github.com/romansorochak/Localizable/blob/master/LICENSE) for details.
